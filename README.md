@@ -33,5 +33,7 @@ The workflow includes data cleaning, outlier detection, exploratory data analysi
 ## 📌 Future Work
 - Improve model accuracy with advanced algorithms (XGBoost, Random Forest, etc.)
 
+## Dataset
+- from Kaggle **https://www.kaggle.com/datasets/jsphyg/weather-dataset-rattle-package**
 ## ✨ Author
 **Mariam Ahmed** , **Hadeel Khaled**
