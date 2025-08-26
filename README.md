@@ -36,4 +36,4 @@ The workflow includes data cleaning, outlier detection, exploratory data analysi
 ## Dataset
 - from Kaggle **https://www.kaggle.com/datasets/jsphyg/weather-dataset-rattle-package**
 ## ✨ Author
-**Mariam Ahmed** , **Hadeel Khaled**
+**Mariam Ahmed**
