@@ -31,7 +31,7 @@ The workflow includes data cleaning, outlier detection, exploratory data analysi
 - Model performance (accuracy, confusion matrix)
 
 ## 📌 Future Work
-- Improve model accuracy with advanced algorithms (XGBoost, Random Forest, etc.)
+- Improve model accuracy with advanced algorithms (XGBoost, Random Forest)
 
 ## Dataset
 - from Kaggle **https://www.kaggle.com/datasets/jsphyg/weather-dataset-rattle-package**
